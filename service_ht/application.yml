@@ -16,3 +16,5 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+mygit: 妖气0805
